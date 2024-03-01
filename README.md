@@ -1,4 +1,4 @@
-# <%= projectName %>
+# vue/cli自研脚手架的测试模板
 
 ## Project setup
 ```
